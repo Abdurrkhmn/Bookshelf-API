@@ -24,6 +24,4 @@ Total jam yang dibutuhkan untuk menyelesaikan kelas ini, mulai dari persiapan ke
 
 
 Dicoding
-
-Footnotes
-Show Credentials ↩
+https://www.dicoding.com/academies/261/tutorials/14967/submission-guidance
